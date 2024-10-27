@@ -2,6 +2,7 @@ master test1
 master test2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 master test3 dev3 test3 dev3 staff
 =======
 master test3
@@ -14,3 +15,6 @@ master test5
 =======
 master test3 dev1 test3
 >>>>>>> b1f62d3 (dev1 test3)
+=======
+master test3 dev2 test3
+>>>>>>> 8d210a2 (dev2 test3)
