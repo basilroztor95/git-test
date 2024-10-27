@@ -5,4 +5,8 @@ master test3 dev3 test3 dev3 staff
 =======
 master test3
 master test4
+<<<<<<< HEAD
 >>>>>>> 954a3a0 (master test4)
+=======
+master test5
+>>>>>>> db7e59a (master test5)
